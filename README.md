@@ -1,2 +1,2 @@
 # MLBootcamp
-Machine Learning Bootcamp Assignment
+Machine Learning Bootcamp Assignments
